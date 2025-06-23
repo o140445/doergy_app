@@ -56,7 +56,7 @@
               <el-icon size="16">
                 <Message />
               </el-icon>
-              <a class="text-sm" href="mailto:doergy@gmail.com">doergy@gmail.com</a>
+              <a class="text-sm" href="mailto:support@doergy.com">support@doergy.com</a>
             </div>
           </div>
         </div>
